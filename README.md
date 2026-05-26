@@ -4,7 +4,7 @@
 Sou estudante do curso **Técnico em Informática para Internet** e estou focada no desenvolvimento Web. Atualmente, tenho um domínio sólido da base do **JavaScript**, criando aplicações dinâmicas e estruturadas, e estou expandindo meus horizontes para o ecossistema fullstack.
 
 - 🎓 Estudando desenvolvimento web, arquitetura de redes e banco de dados.
-- 💻 Atualmente focado em aprofundar em [insira aqui: ex: Node.js, React, ou TypeScript].
+- 💻 Atualmente focado em aprofundar em [desenvolvimento de programação].
 - ⚡ Curiosidade: Adoro resolver problemas de lógica e otimizar funções no JS.
 
 ---
